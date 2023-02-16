@@ -1,1 +1,7 @@
-main func
+int = main 
+
+int main
+{
+// some code
+return 0;
+}
